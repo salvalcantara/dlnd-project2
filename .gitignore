@@ -1,0 +1,6 @@
+*.pyc
+checkpoint
+preprocess*
+cifar-10*
+.ipynb_checkpoints
+image_classification.*
